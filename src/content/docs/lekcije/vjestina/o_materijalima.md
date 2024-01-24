@@ -10,7 +10,7 @@ Ovi materijali namijenjeni su svima koji žele unaprijediti znanje i poboljšati
 
 ### Očekivanja od materijala.
 
-Možete očekivati sadržaj koje obuhvaća gradivo iz vještine kibernetička sigurnost koje ćemo pokušati objasniti na što razumjiviji način za što širu publiku. Uz navedeno možete očekivati dodatne primjere gdje se demonstrira određeni exploit.
+Možete očekivati sadržaj koje obuhvaća gradivo iz vještine kibernetička sigurnost koje ćemo pokušati objasniti na što razumljiviji način za što širu publiku. Uz navedeno možete očekivati dodatne primjere gdje se demonstrira određeni exploit.
 
 ### Trenutno stanje materijala.
 
