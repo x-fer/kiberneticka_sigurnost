@@ -13,7 +13,7 @@ export default defineConfig({
     ],
     social: {
       github: 'https://github.com/x-fer/kiberneticka_sigurnost',
-      discord: 'https://discord.com/invite/E7ad4UGbrG'
+      discord: 'https://discord.gg/UsvJaG7BhT'
     },
     sidebar: [{
       label: 'Vještina',

@@ -19,4 +19,4 @@ Vještina je otvorena za sve studente u Republici Hrvatskoj.
 
 ### Očekivanja po uspješnom završetku vještine.
 
-Možete postati dio nacionalnog tima za CTF natjecanja. Također imate predznanje ako želite se baviti ovim područjem u industriji ili kao hobi. Također treba napomenuti da postoje bug bounty programi u kojime Vas različite tvrtke mogu novčano nagraditi ako uspješno pronađete grešku u njihovim sustavima [Bug Bounty](https://hackerone.com/bug-bounty-programs).
+Možete postati dio nacionalnog tima za CTF natjecanja. Također, imate predznanje ako želite se baviti ovim područjem u industriji ili kao hobi. Uz to treba napomenuti da postoje bug bounty programi u kojime Vas različite tvrtke mogu novčano nagraditi ako uspješno pronađete grešku u njihovim sustavima [Bug Bounty](https://hackerone.com/bug-bounty-programs).
