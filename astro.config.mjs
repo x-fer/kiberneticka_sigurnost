@@ -20,23 +20,23 @@ export default defineConfig({
       collapsed: true,
       items: [{
         label: 'O radionicama',
-        link: '/lekcije/vjestina/o_radionici',
+        link: '/lekcije/radionice/o_radionici',
         badge: 'New'
       },{
         label: 'Predavanja',
-        link: '/lekcije/vjestina/predavanja',
+        link: '/lekcije/radionice/predavanja',
         badge: 'New'
       }, {
         label: 'Bodovanje',
-        link: '/lekcije/vjestina/bodovanje',
+        link: '/lekcije/radionice/bodovanje',
         badge: 'New'
       }, {
         label: 'O materijalima',
-        link: '/lekcije/vjestina/o_materijalima',
+        link: '/lekcije/radionice/o_materijalima',
         badge: 'New'
       }, {
         label: 'FAQ',
-        link: '/lekcije/vjestina/faq',
+        link: '/lekcije/radionice/faq',
         badge: 'New'
       }]
     }, {
