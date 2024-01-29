@@ -1,6 +1,6 @@
 ---
 title: O materijalima
-description: O materijalima vještine
+description: O materijalima
 tableOfContents: false
 ---
 
@@ -10,7 +10,7 @@ Ovi materijali namijenjeni su svima koji žele unaprijediti znanje i poboljšati
 
 ### Očekivanja od materijala.
 
-Možete očekivati sadržaj koje obuhvaća gradivo iz vještine kibernetička sigurnost koje ćemo pokušati objasniti na što razumljiviji način za što širu publiku. Uz navedeno možete očekivati dodatne primjere gdje se demonstrira određeni exploit.
+Možete očekivati sadržaj obuhvaćen gradivom radionica Kibernetičke sigurnosti koje ćemo pokušati objasniti na što razumljiviji način za što širu publiku. Uz navedeno možete očekivati dodatne primjere gdje se demonstrira određeni exploit.
 
 ### Trenutno stanje materijala.
 
@@ -18,4 +18,4 @@ Materijali su trenutno u postupku izrade. Nastojimo dodavati novi sadržaj po za
 
 ### Savjeti
 
-Savjetujemo da pratite događaje u svijetu sigurnosti jer svaki softver nije perfektan. U CTF natjecanjima mogu doći implementacije modernijih i nedavnih sigurnosnih propusta. Dodatno, postoje platforme na kojima možete vježbati i usavršavati svoje znanje iz područja kibernetičke sigurnosti [PicoCTF](https://picoctf.org) i [Hack The Box](https://www.hackthebox.com).
+Savjetujemo da pratite događaje u svijetu sigurnosti jer nijedan softver nije savršen. U CTF natjecanjima mogu doći implementacije modernijih i nedavnih sigurnosnih propusta. Dodatno, postoje platforme na kojima možete vježbati i usavršavati svoje znanje iz područja kibernetičke sigurnosti [PicoCTF](https://picoctf.org) i [Hack The Box](https://www.hackthebox.com).

@@ -10,13 +10,13 @@ Nastojimo to osigurati no nemojte računati da ćemo opremu za snimanje imati do
 
 ### Koji su pragovi?
 
-Kpz nema pragove. Jedini prag su barem po jedan zadatak riješen iz prve i iz druge laboratorijske vježbe. Potrebno je jedino skupiti ukupno 50% bodova za prolaz.
+Pragovi ne postoje. No što više bodova imate veća je šansa da ćete biti prihvaćeni u nacionalni tim.
 
-### Hoće li mi vještina uzeti previše vremena?
+### Hoće li mi radionice uzeti previše vremena?
 
-Nema šanse, ciljamo da će vještina biti zabavna tako da vrijeme tu nije problem 😎
+Nema šanse, ciljamo da će radionice biti zabavne tako da vrijeme tu nije problem 😎
 
-### Treba li mi laptop za predavanje.
+### Treba li mi laptop za predavanje?
 
 Bilo bi poželjno ako želite pratiti predavača, u suprotnom ne.
 

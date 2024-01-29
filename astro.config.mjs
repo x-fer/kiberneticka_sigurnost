@@ -16,11 +16,11 @@ export default defineConfig({
       discord: 'https://discord.gg/UsvJaG7BhT'
     },
     sidebar: [{
-      label: 'Vještina',
+      label: 'Radionice',
       collapsed: true,
       items: [{
-        label: 'O vještini',
-        link: '/lekcije/vjestina/o_vjestini',
+        label: 'O radionicama',
+        link: '/lekcije/vjestina/o_radionici',
         badge: 'New'
       },{
         label: 'Predavanja',

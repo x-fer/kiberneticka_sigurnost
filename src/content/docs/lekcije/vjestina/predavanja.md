@@ -27,4 +27,4 @@ Tablica predavanja dana je u nastavku:
 
 Sva predavanja se održavaju subotama u terminu od 10:00 do 12:00 u učionicama FER-a. Točna učionica će biti najavljena na vrijeme putem našeg Discord servera i preko Newslettera.
 
-Isto tako neobvezna dodatna radionica partnera vještine CERT-a, bit će pravovremeno najavljeno Discord i Newsletter kanalima.
+Isto tako neobvezna dodatna radionica partnera CERT-a, bit će pravovremeno najavljena Discord i Newsletter kanalima.

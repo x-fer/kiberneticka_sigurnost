@@ -10,8 +10,7 @@ U nastavku je prikazana tablica bodovanja:
 |-----|-------|
 |Prva laboratorijska vježba| 40%|
 |Druga laboratorijska vježba| 40%|
-|Kratke provjere znanja| 20%|
-|CERT-ovo dodatno predavanje| dodatnih 5%|
+|Kratke provjere znanja + CERT-ovo dodatno predavanje| 20%|
 
 ### Organizacija laboratorijskih vježbi
 
@@ -30,10 +29,10 @@ Gradivo koje ulazi u drugu laboratorijsku vježbu:
 - **Hardversko hakiranje** (protokoli, UART, JTAG, Sniffing, Glitching, Timing attack, memory dump)
 
 ### Napomena za laboratorijske vježbe
-Važno je napomenuti da se laboratorijske vježbe rade od kuće koristeći CTFd platformu. Svaka laboratorijska vježba postaje dostupna za rješavanje 2 tjedna unaprijed. Studenti moraju doći u dodijeljeni termin na dan usmenog ispitivanja, tek u tom slučaju će dobiti bodove za laboratorijsku vježbu. Za uspješno polaganje vještine studenti moraju imati barem jedan točan zadatak na obje laboratorijske vježbe (prag).
+Važno je napomenuti da se laboratorijske vježbe rade od kuće koristeći CTFd platformu. Svaka laboratorijska vježba postaje dostupna za rješavanje 2 tjedna unaprijed. Izvođenje ovih laboratorijsih vježbi će se dogovoriti u putu ili će se rješavati grupno ili pojedinačno.
 
 ### Kratke provjere znanja
-Kratke provjere znanja pišu se nakon odrađene cjeline i to početkom drugog sata predavanja. Provjere sadrže prethodno obrađivano gradivo i maksimalno je moguće dobiti 5 bodova (2 zadatka od 2,5 bodova). Pitanja za provjere su slučajno izvučena iz skupa pitanja. Studenti imaju 2 minute za rješavanje kratke provjere znanja na platformi koju predavač odabere.
+Kratke provjere znanja pišu se nakon odrađene cjeline i to početkom drugog sata predavanja. Provjere sadrže prethodno obrađeno gradivo i maksimalno je moguće dobiti 5 bodova (2 zadatka po 2,5 boda). Pitanja za provjere su slučajno izvučena iz skupa pitanja. Studenti imaju 2 minute za rješavanje kratke provjere znanja na platformi koju predavač odabere.
 
 ### Dodatni bodovi
-Dodatni bodovi se mogu ostvariti sudjelovanjem na neobveznom predavanju partnera vještine kibernetička sigurnost. Točan datum radionice koju održava partner bit će objavljen naknadno.
+Dodatni bodovi se mogu ostvariti sudjelovanjem na neobveznom predavanju partnera. Točan datum radionice koju održava partner bit će objavljen naknadno.
