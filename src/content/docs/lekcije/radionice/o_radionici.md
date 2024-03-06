@@ -6,7 +6,7 @@ tableOfContents: false
 
 ### Ukratko o radionici
 
-Niz radionica kibernetička sigurnost novi je projekt studentske udruge **X.FER** kojoj je u cilju obučavanje i priprema studenata za izazove u različitim područjima kibernetičke sigurnosti te priprema studenata za CTF (Capture the flag) natjecanja. Ove radionice bave se područjima vezanim za OSINT, Forenziku, Kriptografiju, Web sigurnost, Reverzno inženjerstvo, Binary Exploitation te etičko i hardversko hakiranje. Studenti koji uspješno prođu ovaj niz radionica imaju priliku postati dio nacionalnog tima koji se u ime Republike Hrvatske natječe na različitim Europskim natjecanjima.
+Niz radionica kibernetička sigurnost novi je projekt studentske udruge **X.FER** kojoj je u cilju obučavanje i priprema studenata za izazove u različitim područjima kibernetičke sigurnosti te priprema studenata za CTF (Capture the flag) natjecanja. Ove radionice bave se područjima vezanim za OSINT, Forenziku, Kriptografiju, Web sigurnost, Reverzno inženjerstvo, Binary Exploitation te etičko i hardversko hakiranje. Studenti koji uspješno prođu ovaj niz radionica bit će dodatno pripremljeni za studentski dio kvalifikacija nacionalnog tima koji će predstavljati Republiku Hrvatsku na europskom CTF natjecanju.
 
 
 ### Potrebna znanja za upis radionica

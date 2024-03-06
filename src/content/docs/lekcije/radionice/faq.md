@@ -10,7 +10,7 @@ Nastojimo to osigurati no nemojte računati da ćemo opremu za snimanje imati do
 
 ### Koji su pragovi?
 
-Pragovi ne postoje. No što više bodova imate veća je šansa da ćete biti prihvaćeni u nacionalni tim.
+Prag od ukupno 50% bodova daje certifikat o uspješnom prolasku niza radionica.
 
 ### Hoće li mi radionice uzeti previše vremena?
 
