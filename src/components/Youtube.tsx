@@ -1,4 +1,4 @@
-import React from "react";
+/* import React from "react";
 
 export default function YouTube ({ id } : { id : string }){
     return (
@@ -11,4 +11,4 @@ export default function YouTube ({ id } : { id : string }){
         ></iframe>
       </div>
     );
-  };
+  }; */
