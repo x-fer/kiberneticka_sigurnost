@@ -15,7 +15,7 @@ nc je pozivanje programa Netcat. Na drugom mjestu slijedi IP adresa koja može b
 
 Zadatak nam je povezati se s netcatom na host i port:
 
-![niceNetcat](./src/images/osint/niceNetcat.png)
+![niceNetcat](/images/osint/niceNetcat.png)
 
 Ovo ćemo ovako pokrenuti u terminalu:
 
@@ -27,11 +27,11 @@ Konkretno što znači ovaj dio " > output.txt "? Prvo operator > označava da se
 
 Nakon što izvršimo navedenu naredbu dobijemo:
 
-![niceNetcatData](./src/images/osint/niceNetcatData.png)
+![niceNetcatData](/images/osint/niceNetcatData.png)
 
 Podsjeća li nas ovo na nešto. Da! Ovo je dekadski zapis u ASCII tablici pa ga pretvorimo u znakove.
 
-![niceNetcatResult](./src/images/osint/niceNetcatResult.png)
+![niceNetcatResult](/images/osint/niceNetcatResult.png)
 
 Ovime smo dobili zastavicu.
 

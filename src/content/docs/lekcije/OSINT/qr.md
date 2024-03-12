@@ -8,7 +8,7 @@ Reed-Solomon se temelji na ispravljanju pogrešaka pri oporavku od greške u či
 
 Pogledajmo strukturu QR koda:
 
-![QR](./src/images/osint/qr.png)
+![QR](/images/osint/qr.png)
 
 Vidimo da svi QR kodovi imaju nekakvu strukturu te dijele određene elemente:
 
@@ -23,7 +23,7 @@ Uz ove postoje i iQR kodovi ali ove godine o njima nećemo govoriti.
 
 No kako su podaci posloženi? Podaci su posloženi u kućice i čitaju se cik-cak. Pogledajmo na slici:
 
-![QRPayload](./src/images/osint/qrPayload.png)
+![QRPayload](/images/osint/qrPayload.png)
 
 No što je s error correctionom? Tj. ako je neki dio QR koda oštećen, Reed-Solomon će osigurati da je kod i dalje čitljiv. Što je veći broj zalihosnih bitova, QR kod može pretrpjeti veća oštećenja. Količinu koju možemo oporaviti svrstavamo u par kategorija:
 
@@ -34,21 +34,21 @@ No što je s error correctionom? Tj. ako je neki dio QR koda oštećen, Reed-Sol
 
 Sad pogledajmo kako raste kompleksnost QR koda povećavanjem zalihosnih bitova:
 
-![QR Error](./src/images/osint/qrError.png)
+![QR Error](/images/osint/qrError.png)
 
 Sad probajte skenirati neke i skužiti zašto rade ili ne rade.
 
-![Scan qr](./src/images/osint/scanQr.png)
+![Scan qr](/images/osint/scanQr.png)
 
 ## Broken QR (Tennable CTF 2021)
 
 Dobili smo QR kod koji ne radi, možemo li ga popraviti?
 
-![Broken QR](./src/images/osint/brokenQr.png)
+![Broken QR](/images/osint/brokenQr.png)
 
 Odgovor je da i to uz pomoć painta ili nekog drugog alata za modifikaciju slika.
 
-![Broken QR Fix](./src/images/osint/brokenQrFix.png)
+![Broken QR Fix](/images/osint/brokenQrFix.png)
 
 Prvo ćemo iskopirati orijentaciju i zalijepiti ju u gornji lijevi kut. Nakon toga možemo uzeti vremenske oznake i rotirati ih za 90 stupnjeva i zalijepiti na lijevi dio. Na kraju možemo ručno obojiti ostatak podataka (čak i ako smo ovdje u krivu Reed-Solomon nam uskače u pomoć). Na kraju smo dobili QR koji možemo skenirati.
 

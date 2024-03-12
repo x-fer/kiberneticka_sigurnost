@@ -7,7 +7,7 @@ Strings je vrlo jednostavan alat koji u bilo kojem tipu podataka traži duljinu 
 
 Prisjetimo se da je svaki file zapravo niz nula i jedinica, pa ga možemo otvoriti u nekom hex editoru npr.
 
-![Hex](./src/images/osint/hex.png)
+![Hex](/images/osint/hex.png)
 
 Ovdje će naš program strings ispisivati riječi: RIFF, WAVEfmt, data itd.
 
@@ -15,7 +15,7 @@ Pogledajmo konkretan primjer.
 
 ## strings it (picoCTF)
 
-![Strings it](./src/images/osint/strings-it.png)
+![Strings it](/images/osint/strings-it.png)
 
 Idemo pokrenuti naredbu strings nad njim.
 
@@ -23,7 +23,7 @@ Idemo pokrenuti naredbu strings nad njim.
 strings strings
 ```
 
-![Strings output](./src/images/osint/stringsOutput.png)
+![Strings output](/images/osint/stringsOutput.png)
 
 Vidimo da je izlaz naredbe strings prevelik da se prikaže u terminalu. Tu imamo opciju koristiti > o čemu smo pričali u poglavlju prije ili novi operator |.
 
@@ -37,7 +37,7 @@ Naredba grep pretraživa traženu riječ u tekstu. Kod nas je tražena riječ "p
 
 Nakon što sad izvršimo našu naredbu, dobijemo.
 
-![Strings-it result](./src/images/osint/stringsItResult.png)
+![Strings-it result](/images/osint/stringsItResult.png)
 
 ## Dodatni linkovi
 
