@@ -1,6 +1,5 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
-
 import tailwind from "@astrojs/tailwind";
 
 // https://astro.build/config
@@ -21,30 +20,58 @@ export default defineConfig({
       items: [{
         label: 'O radionicama',
         link: '/lekcije/radionice/o_radionici',
-        badge: 'New'
       },{
         label: 'Predavanja',
         link: '/lekcije/radionice/predavanja',
-        badge: 'New'
       }, {
         label: 'Bodovanje',
         link: '/lekcije/radionice/bodovanje',
-        badge: 'New'
       }, {
         label: 'O materijalima',
         link: '/lekcije/radionice/o_materijalima',
-        badge: 'New'
       }, {
         label: 'FAQ',
         link: '/lekcije/radionice/faq',
-        badge: 'New'
       }]
     }, {
-      label: 'OSINT',
+      label: 'OSINT i miscellaneous',
       collapsed: true,
       items: [{
         label: 'O OSINT-u',
         link: '/lekcije/osint/o_osintu',
+        badge: 'New'
+      },{
+        label: 'ASCII',
+        link: '/lekcije/osint/ascii',
+        badge: 'New'
+      },{
+        label: 'Base64',
+        link: '/lekcije/osint/base64',
+        badge: 'New'
+      },{
+        label: 'Netcat',
+        link: '/lekcije/osint/netcat',
+        badge: 'New'
+      },{
+        label: 'QR',
+        link: '/lekcije/osint/qr',
+        badge: 'New'
+      },{
+        label: 'Morse Code',
+        link: '/lekcije/osint/morsecode',
+        badge: 'New'
+      },{
+        label: 'Eye i what3words',
+        link: '/lekcije/osint/eye',
+        badge: 'New'
+      },{
+        label: 'Strings',
+        link: '/lekcije/osint/strings',
+        badge: 'New'
+      },{
+        label: 'Zvuk',
+        link: '/lekcije/osint/zvuk',
+        badge: 'New'
       }]
     }, {
       label: 'Forenzika',
@@ -96,5 +123,5 @@ export default defineConfig({
         link: '/lekcije/hardversko/o_hardverskom_hakiranju'
       }]
     }]
-  }), tailwind()]
+  }), tailwind()],
 });
