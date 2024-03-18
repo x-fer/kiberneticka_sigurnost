@@ -11,7 +11,7 @@ Link na prezentacije: [Prezentacije](https://drive.google.com/file/d/1gRuZ2yFuqu
 
 Link na zadatke: [Zadaci](https://drive.google.com/file/d/1-GBdrQ8C7OYlZ_Mnb9ZTl4B_4RntL06F/view?usp=sharing)
 
-Link na Notion (hvala $ROSE ┃ P4E): [Notion](https://we.tl/t-HHZ7JUqNtV)
+Link na Notion (hvala $ROSE ┃ P4E): [Notion](https://drive.google.com/file/d/1r06ElhAompRraCOHNsOjJ1xgArVOrlaq/view?usp=sharing)
 
 # OPEN SOURCE INTELLIGENCE
 
