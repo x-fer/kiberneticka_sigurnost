@@ -38,47 +38,39 @@ export default defineConfig({
       collapsed: true,
       items: [{
         label: 'O OSINT-u',
-        link: '/lekcije/osint/o_osintu',
-        badge: 'New'
+        link: '/lekcije/osint/o_osintu'
       },{
         label: 'ASCII',
-        link: '/lekcije/osint/ascii',
-        badge: 'New'
+        link: '/lekcije/osint/ascii'
       },{
         label: 'Base64',
-        link: '/lekcije/osint/base64',
-        badge: 'New'
+        link: '/lekcije/osint/base64'
       },{
         label: 'Netcat',
-        link: '/lekcije/osint/netcat',
-        badge: 'New'
+        link: '/lekcije/osint/netcat'
       },{
         label: 'QR',
-        link: '/lekcije/osint/qr',
-        badge: 'New'
+        link: '/lekcije/osint/qr'
       },{
         label: 'Morse Code',
-        link: '/lekcije/osint/morsecode',
-        badge: 'New'
+        link: '/lekcije/osint/morsecode'
       },{
         label: 'Eye i what3words',
-        link: '/lekcije/osint/eye',
-        badge: 'New'
+        link: '/lekcije/osint/eye'
       },{
         label: 'Strings',
-        link: '/lekcije/osint/strings',
-        badge: 'New'
+        link: '/lekcije/osint/strings'
       },{
         label: 'Zvuk',
-        link: '/lekcije/osint/zvuk',
-        badge: 'New'
+        link: '/lekcije/osint/zvuk'
       }]
     }, {
       label: 'Forenzika',
       collapsed: true,
       items: [{
         label: 'O forenzici',
-        link: '/lekcije/forenzika/o_forenzici'
+        link: '/lekcije/forenzika/o_forenzici',
+        badge: 'New'
       }]
     }, {
       label: 'Kriptografija',

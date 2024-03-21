@@ -16,6 +16,8 @@ U drugom predavanju nadovezujemo se na prošlo predavanje i proširujemo naše z
 
 Na dnu stranice su svi korišteni alati.
 
+Ostatak materijala (slično kao i za OSINT) bit će napravljen tijekom ljetnih praznika 😂
+
 # Računalna forenzika materijali:
 
 ### Slike (JPEG)
