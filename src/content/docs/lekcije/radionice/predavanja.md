@@ -13,7 +13,7 @@ Tablica predavanja dana je u nastavku:
 |9.3.2024.|Uvodno predavanje i OSINT|
 |16.3.2024.|Forenzika|
 |23.3.2024.|Kriptografija 1|DA (Forenzika i OSINT)|
-|30.3.2024.|Kriptografija 2|
+|30.3.2024. (POMAKNUTO NA 8.4)|Kriptografija 2|
 |6.4.2024.|Sigurnost Weba 1|DA (Kriptografija)|
 |13.4.2024.|Sigurnost Weba 2|
 |4.5.2024.|Laboratorijska vježba 1|
