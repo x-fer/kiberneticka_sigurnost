@@ -70,14 +70,14 @@ export default defineConfig({
       items: [{
         label: 'O forenzici',
         link: '/lekcije/forenzika/o_forenzici',
-        badge: 'New'
       }]
     }, {
       label: 'Kriptografija',
       collapsed: true,
       items: [{
         label: 'O kriptografiji',
-        link: '/lekcije/kriptografija/o_kriptografiji'
+        link: '/lekcije/kriptografija/o_kriptografiji',
+        badge: 'New'
       }]
     }, {
       label: 'Web',
