@@ -6,7 +6,7 @@ tableOfContents: false
 
 # Linkovi na materijale
 
-Link na video predavanje: Uskoro!
+Link na video predavanje: [Video](https://youtu.be/aK8GCrIa9jU?si=CsoNVw98yKCqTapP)
 
 Link na prezentaciju: [Prezentacije](https://drive.google.com/file/d/1m74ZsxDWSiZsJGe-uAcx5qLLfkYX12VJ/view?usp=sharing)
 
