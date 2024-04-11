@@ -9,6 +9,7 @@ tableOfContents: false
 Link na video predavanje: [Video](https://youtu.be/aK8GCrIa9jU?si=CsoNVw98yKCqTapP)
 
 Link na prvu prezentaciju: [Prezentacija 1](https://drive.google.com/file/d/1m74ZsxDWSiZsJGe-uAcx5qLLfkYX12VJ/view?usp=sharing)
+
 Link na drugu prezentaciju: [Prezentacija 2](https://drive.google.com/file/d/1m74ZsxDWSiZsJGe-uAcx5qLLfkYX12VJ/view?usp=sharing)
 
 Link na zadatke: [Zadaci](https://drive.google.com/file/d/12mXDEf5MJWtUwI_e_RcxpW8L8udmDUoo/view?usp=sharing)
