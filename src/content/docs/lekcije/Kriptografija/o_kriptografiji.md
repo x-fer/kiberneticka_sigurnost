@@ -8,7 +8,8 @@ tableOfContents: false
 
 Link na video predavanje: [Video](https://youtu.be/aK8GCrIa9jU?si=CsoNVw98yKCqTapP)
 
-Link na prezentaciju: [Prezentacije](https://drive.google.com/file/d/1m74ZsxDWSiZsJGe-uAcx5qLLfkYX12VJ/view?usp=sharing)
+Link na prvu prezentaciju: [Prezentacija 1](https://drive.google.com/file/d/1m74ZsxDWSiZsJGe-uAcx5qLLfkYX12VJ/view?usp=sharing)
+Link na drugu prezentaciju: [Prezentacija 2](https://drive.google.com/file/d/1m74ZsxDWSiZsJGe-uAcx5qLLfkYX12VJ/view?usp=sharing)
 
 Link na zadatke: [Zadaci](https://drive.google.com/file/d/12mXDEf5MJWtUwI_e_RcxpW8L8udmDUoo/view?usp=sharing)
 
@@ -31,6 +32,12 @@ Na dnu stranice su svi korišteni alati.
 - [PRNG](https://en.wikipedia.org/wiki/Pseudorandom_number_generator)
 - [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem))
 - [Wiener's attack](https://en.wikipedia.org/wiki/Wiener%27s_attack)
+
+### Kriptografija 2 
+
+- [OTP](https://www.ciphermachinesandcryptology.com/en/onetimepad.htm)
+- [AES](https://www.simplilearn.com/tutorials/cryptography-tutorial/aes-encryption)
+- [Stream cypter](https://en.wikipedia.org/wiki/Stream_cipher)
 
 ### Alati: 
 
