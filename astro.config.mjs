@@ -76,15 +76,15 @@ export default defineConfig({
       collapsed: true,
       items: [{
         label: 'O kriptografiji',
-        link: '/lekcije/kriptografija/o_kriptografiji',
-        badge: 'New'
+        link: '/lekcije/kriptografija/o_kriptografiji'
       }]
     }, {
       label: 'Web',
       collapsed: true,
       items: [{
         label: 'O webu',
-        link: '/lekcije/web/o_webu'
+        link: '/lekcije/web/o_webu',
+        badge: 'New'
       }]
     }, {
       label: 'Reverzno inženjerstvo',
