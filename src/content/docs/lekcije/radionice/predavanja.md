@@ -13,13 +13,13 @@ Tablica predavanja dana je u nastavku:
 |9.3.2024.|Uvodno predavanje i OSINT|
 |16.3.2024.|Forenzika|
 |23.3.2024.|Kriptografija 1|DA (Forenzika i OSINT)|
-|30.3.2024. (POMAKNUTO NA 8.4)|Kriptografija 2|
+|30.3.2024.|Kriptografija 2|
 |6.4.2024.|Sigurnost Weba 1|DA (Kriptografija)|
 |13.4.2024.|Sigurnost Weba 2|
 |4.5.2024.|Laboratorijska vježba 1|
 |11.5.2024.|Reverse engineering|DA (Sigurnost weba)|
 |18.5.2024.|Binary exploitation|
-|25.5.2024.|RADNA SUBOTA - NEMA PREDAVANJA|
+|25.5.2024.|Gostujuće predavanje|
 |1.6.2024.|Etičko hakiranje|DA (Reverse engineering i binary exploitation)|
 |8.6.2024.|Hardversko hakiranje|
 |29.6.2024.|Laboratorijska vježba 2|
