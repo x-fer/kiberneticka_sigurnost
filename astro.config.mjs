@@ -84,14 +84,14 @@ export default defineConfig({
       items: [{
         label: 'O webu',
         link: '/lekcije/web/o_webu',
-        badge: 'New'
       }]
     }, {
       label: 'Reverzno inženjerstvo',
       collapsed: true,
       items: [{
         label: 'O reverznom inženjerstvu',
-        link: '/lekcije/rev/o_reversingu'
+        link: '/lekcije/rev/o_reversingu',
+        badge: 'New'
       }]
     }, {
       label: 'Binary',
