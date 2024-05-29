@@ -90,15 +90,15 @@ export default defineConfig({
       collapsed: true,
       items: [{
         label: 'O reverznom inženjerstvu',
-        link: '/lekcije/rev/o_reversingu',
-        badge: 'New'
+        link: '/lekcije/rev/o_reversingu'
       }]
     }, {
       label: 'Binary',
       collapsed: true,
       items: [{
         label: 'O binary exploitation',
-        link: '/lekcije/bin/o_binaryju'
+        link: '/lekcije/bin/o_binaryju',
+        badge: 'New'
       }]
     }, {
       label: 'Etičko hakiranje',
