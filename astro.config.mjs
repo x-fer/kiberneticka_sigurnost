@@ -97,22 +97,23 @@ export default defineConfig({
       collapsed: true,
       items: [{
         label: 'O binary exploitation',
-        link: '/lekcije/bin/o_binaryju',
-        badge: 'New'
+        link: '/lekcije/bin/o_binaryju'
       }]
     }, {
       label: 'Etičko hakiranje',
       collapsed: true,
       items: [{
         label: 'O etičkom hakiranju',
-        link: '/lekcije/eticko/o_etickom_hakiranju'
+        link: '/lekcije/eticko/o_etickom_hakiranju',
+        badge: 'New'
       }]
     },{
       label: 'Hardversko hakiranje',
       collapsed: true,
       items: [{
         label: 'O hardverskom hakiranju',
-        link: '/lekcije/hardversko/o_hardverskom_hakiranju'
+        link: '/lekcije/hardversko/o_hardverskom_hakiranju',
+        badge: 'New'
       }]
     }]
   }), tailwind()],
