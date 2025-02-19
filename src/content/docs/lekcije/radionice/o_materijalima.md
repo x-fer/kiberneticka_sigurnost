@@ -10,7 +10,7 @@ Ovi materijali namijenjeni su svima koji žele unaprijediti znanje i poboljšati
 
 ### Očekivanja od materijala.
 
-Možete očekivati sadržaj obuhvaćen gradivom radionica Kibernetičke sigurnosti koje ćemo pokušati objasniti na što razumljiviji način za što širu publiku. Uz navedeno možete očekivati dodatne primjere gdje se demonstrira određeni exploit.
+Možete očekivati sadržaj obuhvaćen gradivom vještine NaVKiS koje ćemo pokušati objasniti na što razumljiviji način za što širu publiku. Uz navedeno možete očekivati dodatne primjere gdje se demonstrira određeni exploit.
 
 ### Trenutno stanje materijala.
 

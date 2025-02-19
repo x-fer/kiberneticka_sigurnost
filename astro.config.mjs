@@ -6,7 +6,7 @@ import tailwind from "@astrojs/tailwind";
 export default defineConfig({
   site: 'https://ctf.xfer.hr',
   integrations: [starlight({
-    title: 'KibSec',
+    title: 'NaVKiS',
     customCss: [
       './src/styles/custom.css',
     ],
@@ -15,10 +15,10 @@ export default defineConfig({
       discord: 'https://discord.gg/UsvJaG7BhT'
     },
     sidebar: [{
-      label: 'Radionice',
+      label: 'Informacije',
       collapsed: true,
       items: [{
-        label: 'O radionicama',
+        label: 'O vještini',
         link: '/lekcije/radionice/o_radionici',
       },{
         label: 'Predavanja',

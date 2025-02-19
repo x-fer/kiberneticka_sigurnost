@@ -40,11 +40,9 @@ Yay! Pronašli smo naše koordinate.
 
 Čisto informativno postoji i način zapisivanja lokacije preko alata what3words. Ideja iza njega je ta da čitavu Zemlju podijelimo na površinu od 3x3 metra i dadnemo joj tri riječi odvojene točkom npr. ruler.fixated.smarter.
 
-![What3words](/images/osint/what3words.png)
-
 Npr. ovo je lokacija učionice B1 na FER-u.
 
-![B1](/images/osint/b1.png)
+![What3words](/images/osint/what3words.png)
 
 ## Dodatni linkovi
 
