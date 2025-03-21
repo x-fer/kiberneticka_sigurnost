@@ -12,11 +12,11 @@ Link na prezentaciju: [Prezentacije](https://drive.google.com/file/d/19R5cayhHcn
 
 Link na zadatke: [Zadaci](https://drive.google.com/file/d/1DxLFBXthLISq6wfPnAsVRmjGk_WLYNTq/view?usp=sharing)
 
+# Računalna forenzika
+
 U drugom predavanju nadovezujemo se na prošlo predavanje i proširujemo naše znanje. Tema je Računalna forenzika i steganografija.
 
-Na dnu stranice su svi korišteni alati.
-
-Ostatak materijala (slično kao i za OSINT) bit će napravljen tijekom ljetnih praznika 😂
+Računalna forenzika je grana forenzike koja se bavi analizom, prikupljanjem i očuvanjem digitalnih dokaza s elektroničkih uređaja, poput računala, mobilnih telefona, poslužitelja i mrežnih sustava. Koristi se u kriminalističkim istragama i kibernetičkoj sigurnosti kako bi se otkrili tragovi hakerskih napada, prijevara, krađe podataka ili drugih ilegalnih aktivnosti. Budući da je područje dosta opširno na vještini ćemo se baviti samo s par dijelova.
 
 # Računalna forenzika materijali:
 

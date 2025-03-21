@@ -13,7 +13,7 @@ Tablica predavanja dana je u nastavku:
 |8.3.2025.|Uvodno predavanje i OSINT|
 |15.3.2025.|Linux|
 |22.3.2025.|Forenzika|
-|29.3.2025.|Kriptografija|DA (Forenzika i OSINT)|
+|29.3.2025.|Kriptografija|DA (Forenzika i Linux)|
 |5.4.2025.|Web 1|
 |12.4.2025.|Web 2|
 |19.4.2025.|x86 assembly| DA (Kriptografija i Web)|
@@ -25,7 +25,6 @@ Tablica predavanja dana je u nastavku:
 |14.6.2025.|Radna subota|
 |21.6.2025.|Hardversko inženjerstvo i shenanigans|DA (Reverzno inženjerstvo)|
 |12.7.2025.|ZI|
-
 
 Sva predavanja se održavaju subotama u terminu od 10:00 do 13:00 u učionicama FER-a. Točna učionica će biti najavljena na vrijeme putem našeg Discord servera i preko Newslettera.
 

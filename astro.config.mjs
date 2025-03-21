@@ -70,6 +70,9 @@ export default defineConfig({
       items: [{
         label: 'O forenzici',
         link: '/lekcije/forenzika/o_forenzici',
+      },{
+        label: 'Datoteke',
+        link: '/lekcije/forenzika/datoteke',
       }]
     }, {
       label: 'Kriptografija',
