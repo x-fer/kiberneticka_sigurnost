@@ -1,54 +1,62 @@
-# Starlight Starter Kit: Basics
+# Natjecateljske vještine u kibernetičkoj sigurnosti
 
-[![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
+![Kibernetička sigurnost](/src/assets/hero.png)
 
-```
-npm create astro@latest -- --template starlight
-```
+## 📚 O projektu
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/starlight/tree/main/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/starlight/tree/main/examples/basics)
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fwithastro%2Fstarlight%2Ftree%2Fmain%2Fexamples%2Fbasics&project-name=my-starlight-docs&repository-name=my-starlight-docs)
+Dobrodošli na repozitorij "Natjecateljske vještine u kibernetičkoj sigurnosti"! Ovaj projekt je razvijen u suradnji studentske udruge X.FER i Fakulteta elektrotehnike i računarstva u Zagrebu.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+Ova platforma sadrži obrazovne materijale, radionice i lekcije iz različitih područja kibernetičke sigurnosti, uključujući:
 
-## 🚀 Project Structure
+- Forenziku
+- Reverzni inženjering
+- Web sigurnost
+- Binarnu eksploataciju
+- Etičko hakiranje
+- Hardversku sigurnost
+- Kriptografiju
+- OSINT (Open Source Intelligence)
 
-Inside of your Astro + Starlight project, you'll see the following folders and files:
+## 🚀 Struktura projekta
 
 ```
 .
-├── public/
+├── public/               # Statički resursi (ikone, slike)
 ├── src/
-│   ├── assets/
+│   ├── assets/           # Slike i medijski sadržaji
 │   ├── content/
-│   │   ├── docs/
-│   │   └── config.ts
+│   │   ├── docs/         # Dokumentacija i materijali za učenje
+│   │   │   ├── lekcije/  # Nastavni materijali po područjima
+│   │   │   └── ...
+│   │   └── config.ts     # Konfiguracija sadržaja
 │   └── env.d.ts
-├── astro.config.mjs
-├── package.json
-└── tsconfig.json
+├── astro.config.mjs      # Astro konfiguracija
+├── package.json          # Ovisnosti projekta
+└── tsconfig.json         # TypeScript konfiguracija
 ```
 
-Starlight looks for `.md` or `.mdx` files in the `src/content/docs/` directory. Each file is exposed as a route based on its file name.
+## 🧞 Korisne naredbe
 
-Images can be added to `src/assets/` and embedded in Markdown with a relative link.
+Sve naredbe se pokreću iz korijena projekta, u terminalu:
 
-Static assets, like favicons, can be placed in the `public/` directory.
+| Naredba                  | Akcija                                            |
+| :----------------------- | :------------------------------------------------ |
+| `npm install`            | Instalira ovisnosti                               |
+| `npm run dev`            | Pokreće lokalni dev server na `localhost:4321`    |
+| `npm run build`          | Gradi produkcijsku verziju u `./dist/`            |
+| `npm run preview`        | Pregled produkcijske verzije prije deploymenta     |
+| `npm run astro ...`      | Pokretanje Astro CLI naredbi                      |
 
-## 🧞 Commands
+## 👥 Doprinos projektu
 
-All commands are run from the root of the project, from a terminal:
+Pridružite se razvoju ovog projekta:
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+1. Forkajtе repozitorij
+2. Napravite svoje izmjene
+3. Pošaljite Pull Request s prijedlozima poboljšanja
 
-## 👀 Want to learn more?
+## 🔗 Korisni linkovi
 
-Check out [Starlight’s docs](https://starlight.astro.build/), read [the Astro documentation](https://docs.astro.build), or jump into the [Astro Discord server](https://astro.build/chat).
+- [Discord server](https://discord.gg/UsvJaG7BhT) - Pitajte za pomoć ili se pridružite zajednici
+- [Stranica projekta](https://kiberneticka-sigurnost.fer.hr) - Službena web stranica
+
