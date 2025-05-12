@@ -1,7 +1,5 @@
 # Natjecateljske vještine u kibernetičkoj sigurnosti
 
-![Kibernetička sigurnost](/src/assets/hero.png)
-
 ## 📚 O projektu
 
 Dobrodošli na repozitorij "Natjecateljske vještine u kibernetičkoj sigurnosti"! Ovaj projekt je razvijen u suradnji studentske udruge X.FER i Fakulteta elektrotehnike i računarstva u Zagrebu.
